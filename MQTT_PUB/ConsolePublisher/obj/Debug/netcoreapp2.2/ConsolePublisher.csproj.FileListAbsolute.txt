@@ -1,0 +1,12 @@
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\bin\Debug\netcoreapp2.2\ConsolePublisher.deps.json
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\bin\Debug\netcoreapp2.2\ConsolePublisher.runtimeconfig.json
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\bin\Debug\netcoreapp2.2\ConsolePublisher.runtimeconfig.dev.json
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\bin\Debug\netcoreapp2.2\ConsolePublisher.dll
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\bin\Debug\netcoreapp2.2\ConsolePublisher.pdb
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.csprojAssemblyReference.cache
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.AssemblyInfoInputs.cache
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.AssemblyInfo.cs
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.csproj.CoreCompileInputs.cache
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.dll
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.pdb
+C:\Users\SubhaneelAgarwalla\Desktop\mqttBasic-master\MqttBasic\ConsolePublisher\obj\Debug\netcoreapp2.2\ConsolePublisher.genruntimeconfig.cache
